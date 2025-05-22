@@ -1,4 +1,4 @@
-public class Ejercicio1 {
+public class EjercicioVariables {
     public static void main(String[] args) {
 
         //Variable para almacenar el nombre
